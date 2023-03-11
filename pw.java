@@ -4,4 +4,9 @@ class pw
      {
          ///code
      }
+     public void m1()
+     {
+         ///code2
+     }
+     
 }
